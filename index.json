@@ -1,0 +1,8 @@
+{
+  "sections": {
+    "home_gigs": {
+      "type": "home-gigs"
+    }
+  },
+  "order": ["home_gigs"]
+}

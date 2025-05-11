@@ -1,0 +1,8 @@
+{
+  "sections": {
+    "custom_product": {
+      "type": "custom-product"
+    }
+  },
+  "order": ["custom_product"]
+}
